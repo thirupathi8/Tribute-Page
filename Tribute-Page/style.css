@@ -1,0 +1,30 @@
+*{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(215, 234, 241);
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;   
+}
+
+.image{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.History{
+    font-size: 20px;
+}
+
+.Overview{
+    font-size: 20px;
+}
+
+.link{
+    font-size: 16px;
+    margin-left: 1060px;
+    
+}
